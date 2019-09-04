@@ -1,14 +1,14 @@
-#ABOUT THE APP LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
+ABOUT THE APP LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
-#concert-this
+concert-this
 
-#spotify-this-song
+spotify-this-song
 
-#movie-this
+movie-this
 
-#do-what-it-says
+do-what-it-says
 
-#HOW TO USE LIRI
+HOW TO USE LIRI
 
 Step by Step instructions
 
@@ -26,7 +26,7 @@ Output: The system will display a list of all events and locations where the art
 
 ![](screenshots/concert_this.png)
 
-#Example 2: Run the spotify-this-song command
+Example 2: Run the spotify-this-song command
 
 node liri.js spotify-this-song
 
@@ -34,13 +34,13 @@ Output: The system will display a list of information associated with the song. 
 
 ![](screenshots/spotify_this_song.png)
 
-#Example 3: Run the movie-this command
+Example 3: Run the movie-this command
 
 node liri.js movie-this
 
 Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file. See screen-shot below:
 
-![](screenshots/Movie_this.png
+![](screenshots/Movie_this.png)
 
 TECHNOLOGIES USED
 
